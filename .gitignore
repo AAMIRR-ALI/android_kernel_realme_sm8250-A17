@@ -143,4 +143,5 @@ Android.bp
 # Local builds
 build.log
 out
+toolchain
 *.zip
